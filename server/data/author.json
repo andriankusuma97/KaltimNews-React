@@ -1,0 +1,34 @@
+[
+  {
+      "username": "andrian kusuma",
+      "email": "andriankusuma@gmail.com",
+      "password": "andriankusuma",
+      "role": "admin",
+      "phoneNumber": "0821354678",
+      "address": "JL. Mayor Jenderal Sutoyo"
+     
+
+  },
+  {
+    "username": "kusuma andrian",
+    "email": "kusumaandrian@gmail.com",
+    "password": "andrian12345",
+    "role": "admin",
+    "phoneNumber": "0821354678",
+    "address": "JL. Mayor Jenderal Sutoyo"
+   
+
+  },
+  {
+    "username": "ayampenyet",
+    "email": "cobaAyam@gmail.com",
+    "password": "jadilaper",
+    "role": "custommer",
+    "phoneNumber": "0821354678",
+    "address": "JL. Mayor Jenderal Sutoyo"
+   
+
+  }
+  
+  
+]
